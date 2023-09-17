@@ -5,4 +5,4 @@ for i in range(1,51):
         if i % 5 == True:
            print("FIZZ")
     if i % 5 and i % 3 == True:
-        print(ii)
+        print(i)
